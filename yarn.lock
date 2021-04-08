@@ -1982,9 +1982,10 @@
     tiny-warning "^1.0.3"
     toformat "^2.0.0"
 
-"@pancakeswap-libs/uikit@https://github.com/MilkSwap/pancake-uikit.git":
+    
+"@pancakeswap-libs/uikit@https://github.com/oinkydao/pancake-uikit.git":
   version "0.12.0"
-  resolved "https://github.com/MilkSwap/pancake-uikit.git#d23457d0302dc294c02b631ef92b70d2ee577e2a"
+  resolved "https://github.com/oinkydao/pancake-uikit.git#29a7e1cf9324b40025e960e78f416b0bdf72ccb1"
   dependencies:
     "@rollup/plugin-image" "^2.0.6"
     "@types/lodash" "^4.14.162"
